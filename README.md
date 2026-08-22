@@ -21,13 +21,13 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 <img width="672" height="269" alt="image" src="https://github.com/user-attachments/assets/fc33b596-b795-4e5a-91d0-16dac76a8774" />
 <img width="561" height="683" alt="image" src="https://github.com/user-attachments/assets/f6f22205-a35a-4ec4-bdf3-00ae718a71e8" />
 
-AI-ENABLED SMART SPEAKERS
+# AI-ENABLED SMART SPEAKERS
 Examples:
 •	Amazon Echo – Alexa 
 •	Google Nest – Google Assistant 
 •	Apple HomePod – Siri 
 •	Samsung SmartThings-compatible speakers
-CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
+# CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
 1.	Voice Interaction :Communicates with users through voice commands. 
 2.	Speech Recognition :Converts spoken words into text. 
 3.	Natural Language Understanding :Understands the meaning of user commands. 
@@ -38,7 +38,8 @@ CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
 8.	Automation: Performs tasks such as setting alarms, reminders, timers, and schedules. 
 9.	Multilingual Support : Understands and responds in multiple languages. 
 10.	Continuous Learning :AI models improve their performance using data and user feedback.
-RELATED AI TOOLS / TECHNOLOGIES
+    
+# RELATED AI TOOLS / TECHNOLOGIES
 •	Machine Learning (ML) :Learns patterns from user interactions. 
 •	Deep Learning (DL) :Used for speech and language understanding. 
 •	Natural Language Processing (NLP): Understands human language. 
@@ -47,7 +48,9 @@ RELATED AI TOOLS / TECHNOLOGIES
 •	Text-to-Speech (TTS) :Converts generated text into natural-sounding speech. 
 •	Generative AI: Can generate more natural and context-aware responses. 
 •	Cloud AI Services:Provide large-scale speech, language and knowledge-processing capabilities. 
-CONCLUSION
+
+# CONCLUSION
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-to-speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
+
 # RESULT:
 Thus the given experiment is executed.
